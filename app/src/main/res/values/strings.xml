@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">calculatorApp</string>
+    <string name="error_message">Wystąpił błąd. Spróbuj ponownie później.</string>
 </resources>
